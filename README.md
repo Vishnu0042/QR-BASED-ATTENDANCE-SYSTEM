@@ -1,0 +1,1 @@
+# SIH-Smart-Curriculum-Activity-And-Attendance-App
