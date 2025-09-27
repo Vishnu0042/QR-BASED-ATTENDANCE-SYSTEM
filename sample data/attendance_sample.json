@@ -1,0 +1,2053 @@
+{
+  "users": {
+    "FAC101": {
+      "userId": "FAC101",
+      "displayName": "Prof. Faculty1",
+      "email": "faculty1@college.edu",
+      "role": "faculty",
+      "department": "CSE",
+      "enrolledCourses": [],
+      "facultyId": "FAC101"
+    },
+    "FAC102": {
+      "userId": "FAC102",
+      "displayName": "Prof. Faculty2",
+      "email": "faculty2@college.edu",
+      "role": "faculty",
+      "department": "CSE",
+      "enrolledCourses": [],
+      "facultyId": "FAC102"
+    },
+    "FAC103": {
+      "userId": "FAC103",
+      "displayName": "Prof. Faculty3",
+      "email": "faculty3@college.edu",
+      "role": "faculty",
+      "department": "ME",
+      "enrolledCourses": [],
+      "facultyId": "FAC103"
+    },
+    "FAC104": {
+      "userId": "FAC104",
+      "displayName": "Prof. Faculty4",
+      "email": "faculty4@college.edu",
+      "role": "faculty",
+      "department": "ECE",
+      "enrolledCourses": [],
+      "facultyId": "FAC104"
+    },
+    "FAC105": {
+      "userId": "FAC105",
+      "displayName": "Prof. Faculty5",
+      "email": "faculty5@college.edu",
+      "role": "faculty",
+      "department": "ECE",
+      "enrolledCourses": [],
+      "facultyId": "FAC105"
+    },
+    "STU1001": {
+      "userId": "STU1001",
+      "displayName": "Student1",
+      "email": "student1@college.edu",
+      "role": "student",
+      "department": "ECE",
+      "enrolledCourses": [
+        "COURSE201",
+        "COURSE202",
+        "COURSE203"
+      ],
+      "studentId": "STU1001"
+    },
+    "STU1002": {
+      "userId": "STU1002",
+      "displayName": "Student2",
+      "email": "student2@college.edu",
+      "role": "student",
+      "department": "CSE",
+      "enrolledCourses": [
+        "COURSE202",
+        "COURSE205",
+        "COURSE204"
+      ],
+      "studentId": "STU1002"
+    },
+    "STU1003": {
+      "userId": "STU1003",
+      "displayName": "Student3",
+      "email": "student3@college.edu",
+      "role": "student",
+      "department": "CIVIL",
+      "enrolledCourses": [
+        "COURSE204",
+        "COURSE203",
+        "COURSE205"
+      ],
+      "studentId": "STU1003"
+    },
+    "STU1004": {
+      "userId": "STU1004",
+      "displayName": "Student4",
+      "email": "student4@college.edu",
+      "role": "student",
+      "department": "CSE",
+      "enrolledCourses": [
+        "COURSE205",
+        "COURSE202",
+        "COURSE203"
+      ],
+      "studentId": "STU1004"
+    },
+    "STU1005": {
+      "userId": "STU1005",
+      "displayName": "Student5",
+      "email": "student5@college.edu",
+      "role": "student",
+      "department": "CIVIL",
+      "enrolledCourses": [
+        "COURSE203",
+        "COURSE201",
+        "COURSE204"
+      ],
+      "studentId": "STU1005"
+    },
+    "STU1006": {
+      "userId": "STU1006",
+      "displayName": "Student6",
+      "email": "student6@college.edu",
+      "role": "student",
+      "department": "EEE",
+      "enrolledCourses": [
+        "COURSE201",
+        "COURSE203",
+        "COURSE202"
+      ],
+      "studentId": "STU1006"
+    },
+    "STU1007": {
+      "userId": "STU1007",
+      "displayName": "Student7",
+      "email": "student7@college.edu",
+      "role": "student",
+      "department": "CSE",
+      "enrolledCourses": [
+        "COURSE203",
+        "COURSE201",
+        "COURSE204"
+      ],
+      "studentId": "STU1007"
+    },
+    "STU1008": {
+      "userId": "STU1008",
+      "displayName": "Student8",
+      "email": "student8@college.edu",
+      "role": "student",
+      "department": "CSE",
+      "enrolledCourses": [
+        "COURSE205",
+        "COURSE203",
+        "COURSE201"
+      ],
+      "studentId": "STU1008"
+    },
+    "STU1009": {
+      "userId": "STU1009",
+      "displayName": "Student9",
+      "email": "student9@college.edu",
+      "role": "student",
+      "department": "CSE",
+      "enrolledCourses": [
+        "COURSE204",
+        "COURSE205",
+        "COURSE203"
+      ],
+      "studentId": "STU1009"
+    },
+    "STU1010": {
+      "userId": "STU1010",
+      "displayName": "Student10",
+      "email": "student10@college.edu",
+      "role": "student",
+      "department": "ECE",
+      "enrolledCourses": [
+        "COURSE204",
+        "COURSE202",
+        "COURSE205"
+      ],
+      "studentId": "STU1010"
+    },
+    "STU1011": {
+      "userId": "STU1011",
+      "displayName": "Student11",
+      "email": "student11@college.edu",
+      "role": "student",
+      "department": "ECE",
+      "enrolledCourses": [
+        "COURSE202",
+        "COURSE205",
+        "COURSE203"
+      ],
+      "studentId": "STU1011"
+    },
+    "STU1012": {
+      "userId": "STU1012",
+      "displayName": "Student12",
+      "email": "student12@college.edu",
+      "role": "student",
+      "department": "CIVIL",
+      "enrolledCourses": [
+        "COURSE205",
+        "COURSE203",
+        "COURSE204"
+      ],
+      "studentId": "STU1012"
+    },
+    "STU1013": {
+      "userId": "STU1013",
+      "displayName": "Student13",
+      "email": "student13@college.edu",
+      "role": "student",
+      "department": "CIVIL",
+      "enrolledCourses": [
+        "COURSE205",
+        "COURSE204",
+        "COURSE203"
+      ],
+      "studentId": "STU1013"
+    },
+    "STU1014": {
+      "userId": "STU1014",
+      "displayName": "Student14",
+      "email": "student14@college.edu",
+      "role": "student",
+      "department": "CSE",
+      "enrolledCourses": [
+        "COURSE204",
+        "COURSE203",
+        "COURSE201"
+      ],
+      "studentId": "STU1014"
+    },
+    "STU1015": {
+      "userId": "STU1015",
+      "displayName": "Student15",
+      "email": "student15@college.edu",
+      "role": "student",
+      "department": "CIVIL",
+      "enrolledCourses": [
+        "COURSE202",
+        "COURSE204",
+        "COURSE201"
+      ],
+      "studentId": "STU1015"
+    },
+    "STU1016": {
+      "userId": "STU1016",
+      "displayName": "Student16",
+      "email": "student16@college.edu",
+      "role": "student",
+      "department": "ECE",
+      "enrolledCourses": [
+        "COURSE201",
+        "COURSE205",
+        "COURSE204"
+      ],
+      "studentId": "STU1016"
+    },
+    "STU1017": {
+      "userId": "STU1017",
+      "displayName": "Student17",
+      "email": "student17@college.edu",
+      "role": "student",
+      "department": "CIVIL",
+      "enrolledCourses": [
+        "COURSE202",
+        "COURSE204",
+        "COURSE203"
+      ],
+      "studentId": "STU1017"
+    },
+    "STU1018": {
+      "userId": "STU1018",
+      "displayName": "Student18",
+      "email": "student18@college.edu",
+      "role": "student",
+      "department": "EEE",
+      "enrolledCourses": [
+        "COURSE201",
+        "COURSE204",
+        "COURSE202"
+      ],
+      "studentId": "STU1018"
+    },
+    "STU1019": {
+      "userId": "STU1019",
+      "displayName": "Student19",
+      "email": "student19@college.edu",
+      "role": "student",
+      "department": "ECE",
+      "enrolledCourses": [
+        "COURSE205",
+        "COURSE204",
+        "COURSE203"
+      ],
+      "studentId": "STU1019"
+    },
+    "STU1020": {
+      "userId": "STU1020",
+      "displayName": "Student20",
+      "email": "student20@college.edu",
+      "role": "student",
+      "department": "EEE",
+      "enrolledCourses": [
+        "COURSE203",
+        "COURSE201",
+        "COURSE205"
+      ],
+      "studentId": "STU1020"
+    },
+    "STU1021": {
+      "userId": "STU1021",
+      "displayName": "Student21",
+      "email": "student21@college.edu",
+      "role": "student",
+      "department": "CIVIL",
+      "enrolledCourses": [
+        "COURSE201",
+        "COURSE203",
+        "COURSE204"
+      ],
+      "studentId": "STU1021"
+    },
+    "STU1022": {
+      "userId": "STU1022",
+      "displayName": "Student22",
+      "email": "student22@college.edu",
+      "role": "student",
+      "department": "ME",
+      "enrolledCourses": [
+        "COURSE203",
+        "COURSE201",
+        "COURSE202"
+      ],
+      "studentId": "STU1022"
+    },
+    "STU1023": {
+      "userId": "STU1023",
+      "displayName": "Student23",
+      "email": "student23@college.edu",
+      "role": "student",
+      "department": "CSE",
+      "enrolledCourses": [
+        "COURSE204",
+        "COURSE202",
+        "COURSE205"
+      ],
+      "studentId": "STU1023"
+    },
+    "STU1024": {
+      "userId": "STU1024",
+      "displayName": "Student24",
+      "email": "student24@college.edu",
+      "role": "student",
+      "department": "ECE",
+      "enrolledCourses": [
+        "COURSE201",
+        "COURSE203",
+        "COURSE204"
+      ],
+      "studentId": "STU1024"
+    },
+    "STU1025": {
+      "userId": "STU1025",
+      "displayName": "Student25",
+      "email": "student25@college.edu",
+      "role": "student",
+      "department": "EEE",
+      "enrolledCourses": [
+        "COURSE202",
+        "COURSE201",
+        "COURSE203"
+      ],
+      "studentId": "STU1025"
+    },
+    "STU1026": {
+      "userId": "STU1026",
+      "displayName": "Student26",
+      "email": "student26@college.edu",
+      "role": "student",
+      "department": "ME",
+      "enrolledCourses": [
+        "COURSE203",
+        "COURSE202",
+        "COURSE201"
+      ],
+      "studentId": "STU1026"
+    },
+    "STU1027": {
+      "userId": "STU1027",
+      "displayName": "Student27",
+      "email": "student27@college.edu",
+      "role": "student",
+      "department": "ME",
+      "enrolledCourses": [
+        "COURSE203",
+        "COURSE202",
+        "COURSE205"
+      ],
+      "studentId": "STU1027"
+    },
+    "STU1028": {
+      "userId": "STU1028",
+      "displayName": "Student28",
+      "email": "student28@college.edu",
+      "role": "student",
+      "department": "ECE",
+      "enrolledCourses": [
+        "COURSE205",
+        "COURSE201",
+        "COURSE203"
+      ],
+      "studentId": "STU1028"
+    },
+    "STU1029": {
+      "userId": "STU1029",
+      "displayName": "Student29",
+      "email": "student29@college.edu",
+      "role": "student",
+      "department": "ECE",
+      "enrolledCourses": [
+        "COURSE203",
+        "COURSE204",
+        "COURSE201"
+      ],
+      "studentId": "STU1029"
+    },
+    "STU1030": {
+      "userId": "STU1030",
+      "displayName": "Student30",
+      "email": "student30@college.edu",
+      "role": "student",
+      "department": "ME",
+      "enrolledCourses": [
+        "COURSE201",
+        "COURSE203",
+        "COURSE202"
+      ],
+      "studentId": "STU1030"
+    },
+    "STU1031": {
+      "userId": "STU1031",
+      "displayName": "Student31",
+      "email": "student31@college.edu",
+      "role": "student",
+      "department": "CSE",
+      "enrolledCourses": [
+        "COURSE202",
+        "COURSE201",
+        "COURSE204"
+      ],
+      "studentId": "STU1031"
+    },
+    "STU1032": {
+      "userId": "STU1032",
+      "displayName": "Student32",
+      "email": "student32@college.edu",
+      "role": "student",
+      "department": "CSE",
+      "enrolledCourses": [
+        "COURSE205",
+        "COURSE201",
+        "COURSE204"
+      ],
+      "studentId": "STU1032"
+    },
+    "STU1033": {
+      "userId": "STU1033",
+      "displayName": "Student33",
+      "email": "student33@college.edu",
+      "role": "student",
+      "department": "EEE",
+      "enrolledCourses": [
+        "COURSE204",
+        "COURSE201",
+        "COURSE203"
+      ],
+      "studentId": "STU1033"
+    },
+    "STU1034": {
+      "userId": "STU1034",
+      "displayName": "Student34",
+      "email": "student34@college.edu",
+      "role": "student",
+      "department": "CSE",
+      "enrolledCourses": [
+        "COURSE202",
+        "COURSE205",
+        "COURSE203"
+      ],
+      "studentId": "STU1034"
+    },
+    "STU1035": {
+      "userId": "STU1035",
+      "displayName": "Student35",
+      "email": "student35@college.edu",
+      "role": "student",
+      "department": "ME",
+      "enrolledCourses": [
+        "COURSE204",
+        "COURSE202",
+        "COURSE205"
+      ],
+      "studentId": "STU1035"
+    },
+    "STU1036": {
+      "userId": "STU1036",
+      "displayName": "Student36",
+      "email": "student36@college.edu",
+      "role": "student",
+      "department": "ME",
+      "enrolledCourses": [
+        "COURSE205",
+        "COURSE204",
+        "COURSE201"
+      ],
+      "studentId": "STU1036"
+    },
+    "STU1037": {
+      "userId": "STU1037",
+      "displayName": "Student37",
+      "email": "student37@college.edu",
+      "role": "student",
+      "department": "CIVIL",
+      "enrolledCourses": [
+        "COURSE205",
+        "COURSE202",
+        "COURSE203"
+      ],
+      "studentId": "STU1037"
+    },
+    "STU1038": {
+      "userId": "STU1038",
+      "displayName": "Student38",
+      "email": "student38@college.edu",
+      "role": "student",
+      "department": "ME",
+      "enrolledCourses": [
+        "COURSE203",
+        "COURSE204",
+        "COURSE205"
+      ],
+      "studentId": "STU1038"
+    },
+    "STU1039": {
+      "userId": "STU1039",
+      "displayName": "Student39",
+      "email": "student39@college.edu",
+      "role": "student",
+      "department": "CSE",
+      "enrolledCourses": [
+        "COURSE203",
+        "COURSE204",
+        "COURSE205"
+      ],
+      "studentId": "STU1039"
+    },
+    "STU1040": {
+      "userId": "STU1040",
+      "displayName": "Student40",
+      "email": "student40@college.edu",
+      "role": "student",
+      "department": "EEE",
+      "enrolledCourses": [
+        "COURSE204",
+        "COURSE201",
+        "COURSE205"
+      ],
+      "studentId": "STU1040"
+    },
+    "STU1041": {
+      "userId": "STU1041",
+      "displayName": "Student41",
+      "email": "student41@college.edu",
+      "role": "student",
+      "department": "CIVIL",
+      "enrolledCourses": [
+        "COURSE202",
+        "COURSE201",
+        "COURSE205"
+      ],
+      "studentId": "STU1041"
+    },
+    "STU1042": {
+      "userId": "STU1042",
+      "displayName": "Student42",
+      "email": "student42@college.edu",
+      "role": "student",
+      "department": "CSE",
+      "enrolledCourses": [
+        "COURSE201",
+        "COURSE202",
+        "COURSE203"
+      ],
+      "studentId": "STU1042"
+    },
+    "STU1043": {
+      "userId": "STU1043",
+      "displayName": "Student43",
+      "email": "student43@college.edu",
+      "role": "student",
+      "department": "EEE",
+      "enrolledCourses": [
+        "COURSE202",
+        "COURSE201",
+        "COURSE204"
+      ],
+      "studentId": "STU1043"
+    },
+    "STU1044": {
+      "userId": "STU1044",
+      "displayName": "Student44",
+      "email": "student44@college.edu",
+      "role": "student",
+      "department": "CSE",
+      "enrolledCourses": [
+        "COURSE201",
+        "COURSE202",
+        "COURSE205"
+      ],
+      "studentId": "STU1044"
+    },
+    "STU1045": {
+      "userId": "STU1045",
+      "displayName": "Student45",
+      "email": "student45@college.edu",
+      "role": "student",
+      "department": "CIVIL",
+      "enrolledCourses": [
+        "COURSE201",
+        "COURSE203",
+        "COURSE205"
+      ],
+      "studentId": "STU1045"
+    },
+    "STU1046": {
+      "userId": "STU1046",
+      "displayName": "Student46",
+      "email": "student46@college.edu",
+      "role": "student",
+      "department": "ME",
+      "enrolledCourses": [
+        "COURSE205",
+        "COURSE202",
+        "COURSE204"
+      ],
+      "studentId": "STU1046"
+    },
+    "STU1047": {
+      "userId": "STU1047",
+      "displayName": "Student47",
+      "email": "student47@college.edu",
+      "role": "student",
+      "department": "CIVIL",
+      "enrolledCourses": [
+        "COURSE204",
+        "COURSE202",
+        "COURSE203"
+      ],
+      "studentId": "STU1047"
+    },
+    "STU1048": {
+      "userId": "STU1048",
+      "displayName": "Student48",
+      "email": "student48@college.edu",
+      "role": "student",
+      "department": "ME",
+      "enrolledCourses": [
+        "COURSE202",
+        "COURSE204",
+        "COURSE201"
+      ],
+      "studentId": "STU1048"
+    },
+    "STU1049": {
+      "userId": "STU1049",
+      "displayName": "Student49",
+      "email": "student49@college.edu",
+      "role": "student",
+      "department": "CIVIL",
+      "enrolledCourses": [
+        "COURSE204",
+        "COURSE205",
+        "COURSE201"
+      ],
+      "studentId": "STU1049"
+    },
+    "STU1050": {
+      "userId": "STU1050",
+      "displayName": "Student50",
+      "email": "student50@college.edu",
+      "role": "student",
+      "department": "ECE",
+      "enrolledCourses": [
+        "COURSE201",
+        "COURSE205",
+        "COURSE203"
+      ],
+      "studentId": "STU1050"
+    }
+  },
+  "courses": {
+    "COURSE201": {
+      "courseId": "COURSE201",
+      "courseName": "Course 1",
+      "courseCode": "CSE101",
+      "facultyId": "FAC101",
+      "department": "CSE",
+      "schedule": [
+        {
+          "day": "Monday",
+          "startTime": "2025-09-01T14:00:00",
+          "endTime": "2025-09-01T15:00:00"
+        },
+        {
+          "day": "Friday",
+          "startTime": "2025-09-01T09:00:00",
+          "endTime": "2025-09-01T10:00:00"
+        }
+      ],
+      "enrolledStudents": [
+        {
+          "studentId": "STU1001",
+          "studentName": "Student1"
+        },
+        {
+          "studentId": "STU1005",
+          "studentName": "Student5"
+        },
+        {
+          "studentId": "STU1006",
+          "studentName": "Student6"
+        },
+        {
+          "studentId": "STU1007",
+          "studentName": "Student7"
+        },
+        {
+          "studentId": "STU1008",
+          "studentName": "Student8"
+        },
+        {
+          "studentId": "STU1014",
+          "studentName": "Student14"
+        },
+        {
+          "studentId": "STU1015",
+          "studentName": "Student15"
+        },
+        {
+          "studentId": "STU1016",
+          "studentName": "Student16"
+        },
+        {
+          "studentId": "STU1018",
+          "studentName": "Student18"
+        },
+        {
+          "studentId": "STU1020",
+          "studentName": "Student20"
+        },
+        {
+          "studentId": "STU1021",
+          "studentName": "Student21"
+        },
+        {
+          "studentId": "STU1022",
+          "studentName": "Student22"
+        },
+        {
+          "studentId": "STU1024",
+          "studentName": "Student24"
+        },
+        {
+          "studentId": "STU1025",
+          "studentName": "Student25"
+        },
+        {
+          "studentId": "STU1026",
+          "studentName": "Student26"
+        },
+        {
+          "studentId": "STU1028",
+          "studentName": "Student28"
+        },
+        {
+          "studentId": "STU1029",
+          "studentName": "Student29"
+        },
+        {
+          "studentId": "STU1030",
+          "studentName": "Student30"
+        },
+        {
+          "studentId": "STU1031",
+          "studentName": "Student31"
+        },
+        {
+          "studentId": "STU1032",
+          "studentName": "Student32"
+        },
+        {
+          "studentId": "STU1033",
+          "studentName": "Student33"
+        },
+        {
+          "studentId": "STU1036",
+          "studentName": "Student36"
+        },
+        {
+          "studentId": "STU1040",
+          "studentName": "Student40"
+        },
+        {
+          "studentId": "STU1041",
+          "studentName": "Student41"
+        },
+        {
+          "studentId": "STU1042",
+          "studentName": "Student42"
+        },
+        {
+          "studentId": "STU1043",
+          "studentName": "Student43"
+        },
+        {
+          "studentId": "STU1044",
+          "studentName": "Student44"
+        },
+        {
+          "studentId": "STU1045",
+          "studentName": "Student45"
+        },
+        {
+          "studentId": "STU1048",
+          "studentName": "Student48"
+        },
+        {
+          "studentId": "STU1049",
+          "studentName": "Student49"
+        },
+        {
+          "studentId": "STU1050",
+          "studentName": "Student50"
+        }
+      ]
+    },
+    "COURSE202": {
+      "courseId": "COURSE202",
+      "courseName": "Course 2",
+      "courseCode": "CSE102",
+      "facultyId": "FAC102",
+      "department": "CSE",
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "startTime": "2025-09-01T09:00:00",
+          "endTime": "2025-09-01T10:00:00"
+        },
+        {
+          "day": "Monday",
+          "startTime": "2025-09-01T09:00:00",
+          "endTime": "2025-09-01T10:00:00"
+        }
+      ],
+      "enrolledStudents": [
+        {
+          "studentId": "STU1001",
+          "studentName": "Student1"
+        },
+        {
+          "studentId": "STU1002",
+          "studentName": "Student2"
+        },
+        {
+          "studentId": "STU1004",
+          "studentName": "Student4"
+        },
+        {
+          "studentId": "STU1006",
+          "studentName": "Student6"
+        },
+        {
+          "studentId": "STU1010",
+          "studentName": "Student10"
+        },
+        {
+          "studentId": "STU1011",
+          "studentName": "Student11"
+        },
+        {
+          "studentId": "STU1015",
+          "studentName": "Student15"
+        },
+        {
+          "studentId": "STU1017",
+          "studentName": "Student17"
+        },
+        {
+          "studentId": "STU1018",
+          "studentName": "Student18"
+        },
+        {
+          "studentId": "STU1022",
+          "studentName": "Student22"
+        },
+        {
+          "studentId": "STU1023",
+          "studentName": "Student23"
+        },
+        {
+          "studentId": "STU1025",
+          "studentName": "Student25"
+        },
+        {
+          "studentId": "STU1026",
+          "studentName": "Student26"
+        },
+        {
+          "studentId": "STU1027",
+          "studentName": "Student27"
+        },
+        {
+          "studentId": "STU1030",
+          "studentName": "Student30"
+        },
+        {
+          "studentId": "STU1031",
+          "studentName": "Student31"
+        },
+        {
+          "studentId": "STU1034",
+          "studentName": "Student34"
+        },
+        {
+          "studentId": "STU1035",
+          "studentName": "Student35"
+        },
+        {
+          "studentId": "STU1037",
+          "studentName": "Student37"
+        },
+        {
+          "studentId": "STU1041",
+          "studentName": "Student41"
+        },
+        {
+          "studentId": "STU1042",
+          "studentName": "Student42"
+        },
+        {
+          "studentId": "STU1043",
+          "studentName": "Student43"
+        },
+        {
+          "studentId": "STU1044",
+          "studentName": "Student44"
+        },
+        {
+          "studentId": "STU1046",
+          "studentName": "Student46"
+        },
+        {
+          "studentId": "STU1047",
+          "studentName": "Student47"
+        },
+        {
+          "studentId": "STU1048",
+          "studentName": "Student48"
+        }
+      ]
+    },
+    "COURSE203": {
+      "courseId": "COURSE203",
+      "courseName": "Course 3",
+      "courseCode": "CSE103",
+      "facultyId": "FAC103",
+      "department": "ME",
+      "schedule": [
+        {
+          "day": "Thursday",
+          "startTime": "2025-09-01T11:00:00",
+          "endTime": "2025-09-01T12:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "startTime": "2025-09-01T14:00:00",
+          "endTime": "2025-09-01T15:00:00"
+        }
+      ],
+      "enrolledStudents": [
+        {
+          "studentId": "STU1001",
+          "studentName": "Student1"
+        },
+        {
+          "studentId": "STU1003",
+          "studentName": "Student3"
+        },
+        {
+          "studentId": "STU1004",
+          "studentName": "Student4"
+        },
+        {
+          "studentId": "STU1005",
+          "studentName": "Student5"
+        },
+        {
+          "studentId": "STU1006",
+          "studentName": "Student6"
+        },
+        {
+          "studentId": "STU1007",
+          "studentName": "Student7"
+        },
+        {
+          "studentId": "STU1008",
+          "studentName": "Student8"
+        },
+        {
+          "studentId": "STU1009",
+          "studentName": "Student9"
+        },
+        {
+          "studentId": "STU1011",
+          "studentName": "Student11"
+        },
+        {
+          "studentId": "STU1012",
+          "studentName": "Student12"
+        },
+        {
+          "studentId": "STU1013",
+          "studentName": "Student13"
+        },
+        {
+          "studentId": "STU1014",
+          "studentName": "Student14"
+        },
+        {
+          "studentId": "STU1017",
+          "studentName": "Student17"
+        },
+        {
+          "studentId": "STU1019",
+          "studentName": "Student19"
+        },
+        {
+          "studentId": "STU1020",
+          "studentName": "Student20"
+        },
+        {
+          "studentId": "STU1021",
+          "studentName": "Student21"
+        },
+        {
+          "studentId": "STU1022",
+          "studentName": "Student22"
+        },
+        {
+          "studentId": "STU1024",
+          "studentName": "Student24"
+        },
+        {
+          "studentId": "STU1025",
+          "studentName": "Student25"
+        },
+        {
+          "studentId": "STU1026",
+          "studentName": "Student26"
+        },
+        {
+          "studentId": "STU1027",
+          "studentName": "Student27"
+        },
+        {
+          "studentId": "STU1028",
+          "studentName": "Student28"
+        },
+        {
+          "studentId": "STU1029",
+          "studentName": "Student29"
+        },
+        {
+          "studentId": "STU1030",
+          "studentName": "Student30"
+        },
+        {
+          "studentId": "STU1033",
+          "studentName": "Student33"
+        },
+        {
+          "studentId": "STU1034",
+          "studentName": "Student34"
+        },
+        {
+          "studentId": "STU1037",
+          "studentName": "Student37"
+        },
+        {
+          "studentId": "STU1038",
+          "studentName": "Student38"
+        },
+        {
+          "studentId": "STU1039",
+          "studentName": "Student39"
+        },
+        {
+          "studentId": "STU1042",
+          "studentName": "Student42"
+        },
+        {
+          "studentId": "STU1045",
+          "studentName": "Student45"
+        },
+        {
+          "studentId": "STU1047",
+          "studentName": "Student47"
+        },
+        {
+          "studentId": "STU1050",
+          "studentName": "Student50"
+        }
+      ]
+    },
+    "COURSE204": {
+      "courseId": "COURSE204",
+      "courseName": "Course 4",
+      "courseCode": "CSE104",
+      "facultyId": "FAC104",
+      "department": "ECE",
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "startTime": "2025-09-01T11:00:00",
+          "endTime": "2025-09-01T12:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "startTime": "2025-09-01T11:00:00",
+          "endTime": "2025-09-01T12:00:00"
+        }
+      ],
+      "enrolledStudents": [
+        {
+          "studentId": "STU1002",
+          "studentName": "Student2"
+        },
+        {
+          "studentId": "STU1003",
+          "studentName": "Student3"
+        },
+        {
+          "studentId": "STU1005",
+          "studentName": "Student5"
+        },
+        {
+          "studentId": "STU1007",
+          "studentName": "Student7"
+        },
+        {
+          "studentId": "STU1009",
+          "studentName": "Student9"
+        },
+        {
+          "studentId": "STU1010",
+          "studentName": "Student10"
+        },
+        {
+          "studentId": "STU1012",
+          "studentName": "Student12"
+        },
+        {
+          "studentId": "STU1013",
+          "studentName": "Student13"
+        },
+        {
+          "studentId": "STU1014",
+          "studentName": "Student14"
+        },
+        {
+          "studentId": "STU1015",
+          "studentName": "Student15"
+        },
+        {
+          "studentId": "STU1016",
+          "studentName": "Student16"
+        },
+        {
+          "studentId": "STU1017",
+          "studentName": "Student17"
+        },
+        {
+          "studentId": "STU1018",
+          "studentName": "Student18"
+        },
+        {
+          "studentId": "STU1019",
+          "studentName": "Student19"
+        },
+        {
+          "studentId": "STU1021",
+          "studentName": "Student21"
+        },
+        {
+          "studentId": "STU1023",
+          "studentName": "Student23"
+        },
+        {
+          "studentId": "STU1024",
+          "studentName": "Student24"
+        },
+        {
+          "studentId": "STU1029",
+          "studentName": "Student29"
+        },
+        {
+          "studentId": "STU1031",
+          "studentName": "Student31"
+        },
+        {
+          "studentId": "STU1032",
+          "studentName": "Student32"
+        },
+        {
+          "studentId": "STU1033",
+          "studentName": "Student33"
+        },
+        {
+          "studentId": "STU1035",
+          "studentName": "Student35"
+        },
+        {
+          "studentId": "STU1036",
+          "studentName": "Student36"
+        },
+        {
+          "studentId": "STU1038",
+          "studentName": "Student38"
+        },
+        {
+          "studentId": "STU1039",
+          "studentName": "Student39"
+        },
+        {
+          "studentId": "STU1040",
+          "studentName": "Student40"
+        },
+        {
+          "studentId": "STU1043",
+          "studentName": "Student43"
+        },
+        {
+          "studentId": "STU1046",
+          "studentName": "Student46"
+        },
+        {
+          "studentId": "STU1047",
+          "studentName": "Student47"
+        },
+        {
+          "studentId": "STU1048",
+          "studentName": "Student48"
+        },
+        {
+          "studentId": "STU1049",
+          "studentName": "Student49"
+        }
+      ]
+    },
+    "COURSE205": {
+      "courseId": "COURSE205",
+      "courseName": "Course 5",
+      "courseCode": "CSE105",
+      "facultyId": "FAC105",
+      "department": "ECE",
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "startTime": "2025-09-01T14:00:00",
+          "endTime": "2025-09-01T15:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "startTime": "2025-09-01T14:00:00",
+          "endTime": "2025-09-01T15:00:00"
+        }
+      ],
+      "enrolledStudents": [
+        {
+          "studentId": "STU1002",
+          "studentName": "Student2"
+        },
+        {
+          "studentId": "STU1003",
+          "studentName": "Student3"
+        },
+        {
+          "studentId": "STU1004",
+          "studentName": "Student4"
+        },
+        {
+          "studentId": "STU1008",
+          "studentName": "Student8"
+        },
+        {
+          "studentId": "STU1009",
+          "studentName": "Student9"
+        },
+        {
+          "studentId": "STU1010",
+          "studentName": "Student10"
+        },
+        {
+          "studentId": "STU1011",
+          "studentName": "Student11"
+        },
+        {
+          "studentId": "STU1012",
+          "studentName": "Student12"
+        },
+        {
+          "studentId": "STU1013",
+          "studentName": "Student13"
+        },
+        {
+          "studentId": "STU1016",
+          "studentName": "Student16"
+        },
+        {
+          "studentId": "STU1019",
+          "studentName": "Student19"
+        },
+        {
+          "studentId": "STU1020",
+          "studentName": "Student20"
+        },
+        {
+          "studentId": "STU1023",
+          "studentName": "Student23"
+        },
+        {
+          "studentId": "STU1027",
+          "studentName": "Student27"
+        },
+        {
+          "studentId": "STU1028",
+          "studentName": "Student28"
+        },
+        {
+          "studentId": "STU1032",
+          "studentName": "Student32"
+        },
+        {
+          "studentId": "STU1034",
+          "studentName": "Student34"
+        },
+        {
+          "studentId": "STU1035",
+          "studentName": "Student35"
+        },
+        {
+          "studentId": "STU1036",
+          "studentName": "Student36"
+        },
+        {
+          "studentId": "STU1037",
+          "studentName": "Student37"
+        },
+        {
+          "studentId": "STU1038",
+          "studentName": "Student38"
+        },
+        {
+          "studentId": "STU1039",
+          "studentName": "Student39"
+        },
+        {
+          "studentId": "STU1040",
+          "studentName": "Student40"
+        },
+        {
+          "studentId": "STU1041",
+          "studentName": "Student41"
+        },
+        {
+          "studentId": "STU1044",
+          "studentName": "Student44"
+        },
+        {
+          "studentId": "STU1045",
+          "studentName": "Student45"
+        },
+        {
+          "studentId": "STU1046",
+          "studentName": "Student46"
+        },
+        {
+          "studentId": "STU1049",
+          "studentName": "Student49"
+        },
+        {
+          "studentId": "STU1050",
+          "studentName": "Student50"
+        }
+      ]
+    }
+  },
+  "attendanceRecords": {
+    "REC_COURSE201": {
+      "recordId": "REC_COURSE201",
+      "courseId": "COURSE201",
+      "facultyId": "FAC101",
+      "date": "2025-09-25T00:00:00",
+      "students": {
+        "STU1001": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:22:00"
+        },
+        "STU1005": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:26:00"
+        },
+        "STU1006": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:55:00"
+        },
+        "STU1007": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:43:00"
+        },
+        "STU1008": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:03:00"
+        },
+        "STU1014": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:46:00"
+        },
+        "STU1015": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:51:00"
+        },
+        "STU1016": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:15:00"
+        },
+        "STU1018": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:12:00"
+        },
+        "STU1020": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:08:00"
+        },
+        "STU1021": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:11:00"
+        },
+        "STU1022": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:29:00"
+        },
+        "STU1024": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:55:00"
+        },
+        "STU1025": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:28:00"
+        },
+        "STU1026": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:03:00"
+        },
+        "STU1028": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:05:00"
+        },
+        "STU1029": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:10:00"
+        },
+        "STU1030": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:31:00"
+        },
+        "STU1031": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:13:00"
+        },
+        "STU1032": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:57:00"
+        },
+        "STU1033": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:10:00"
+        },
+        "STU1036": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:00:00"
+        },
+        "STU1040": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:16:00"
+        },
+        "STU1041": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:18:00"
+        },
+        "STU1042": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:44:00"
+        },
+        "STU1043": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:09:00"
+        },
+        "STU1044": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:18:00"
+        },
+        "STU1045": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:03:00"
+        },
+        "STU1048": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:47:00"
+        },
+        "STU1049": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:03:00"
+        },
+        "STU1050": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:37:00"
+        }
+      },
+      "createdAt": "2025-09-27T04:22:20.687873"
+    },
+    "REC_COURSE202": {
+      "recordId": "REC_COURSE202",
+      "courseId": "COURSE202",
+      "facultyId": "FAC102",
+      "date": "2025-09-25T00:00:00",
+      "students": {
+        "STU1001": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:32:00"
+        },
+        "STU1002": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:03:00"
+        },
+        "STU1004": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:54:00"
+        },
+        "STU1006": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:04:00"
+        },
+        "STU1010": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:43:00"
+        },
+        "STU1011": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:25:00"
+        },
+        "STU1015": {
+          "status": "present",
+          "timestamp": "2025-09-25T01:00:00"
+        },
+        "STU1017": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:37:00"
+        },
+        "STU1018": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:39:00"
+        },
+        "STU1022": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:26:00"
+        },
+        "STU1023": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:59:00"
+        },
+        "STU1025": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:13:00"
+        },
+        "STU1026": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:15:00"
+        },
+        "STU1027": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:25:00"
+        },
+        "STU1030": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:42:00"
+        },
+        "STU1031": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:29:00"
+        },
+        "STU1034": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:59:00"
+        },
+        "STU1035": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:00:00"
+        },
+        "STU1037": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:39:00"
+        },
+        "STU1041": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:04:00"
+        },
+        "STU1042": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:32:00"
+        },
+        "STU1043": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:08:00"
+        },
+        "STU1044": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:56:00"
+        },
+        "STU1046": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:56:00"
+        },
+        "STU1047": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:23:00"
+        },
+        "STU1048": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:10:00"
+        }
+      },
+      "createdAt": "2025-09-27T04:22:20.687944"
+    },
+    "REC_COURSE203": {
+      "recordId": "REC_COURSE203",
+      "courseId": "COURSE203",
+      "facultyId": "FAC103",
+      "date": "2025-09-25T00:00:00",
+      "students": {
+        "STU1001": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:53:00"
+        },
+        "STU1003": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:39:00"
+        },
+        "STU1004": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:42:00"
+        },
+        "STU1005": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:59:00"
+        },
+        "STU1006": {
+          "status": "present",
+          "timestamp": "2025-09-25T01:00:00"
+        },
+        "STU1007": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:16:00"
+        },
+        "STU1008": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:56:00"
+        },
+        "STU1009": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:47:00"
+        },
+        "STU1011": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:17:00"
+        },
+        "STU1012": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:38:00"
+        },
+        "STU1013": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:45:00"
+        },
+        "STU1014": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:13:00"
+        },
+        "STU1017": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:32:00"
+        },
+        "STU1019": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:16:00"
+        },
+        "STU1020": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:05:00"
+        },
+        "STU1021": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:53:00"
+        },
+        "STU1022": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:02:00"
+        },
+        "STU1024": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:21:00"
+        },
+        "STU1025": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:40:00"
+        },
+        "STU1026": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:10:00"
+        },
+        "STU1027": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:35:00"
+        },
+        "STU1028": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:35:00"
+        },
+        "STU1029": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:07:00"
+        },
+        "STU1030": {
+          "status": "present",
+          "timestamp": "2025-09-25T01:00:00"
+        },
+        "STU1033": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:34:00"
+        },
+        "STU1034": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:53:00"
+        },
+        "STU1037": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:37:00"
+        },
+        "STU1038": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:27:00"
+        },
+        "STU1039": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:02:00"
+        },
+        "STU1042": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:23:00"
+        },
+        "STU1045": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:57:00"
+        },
+        "STU1047": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:13:00"
+        },
+        "STU1050": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:42:00"
+        }
+      },
+      "createdAt": "2025-09-27T04:22:20.688028"
+    },
+    "REC_COURSE204": {
+      "recordId": "REC_COURSE204",
+      "courseId": "COURSE204",
+      "facultyId": "FAC104",
+      "date": "2025-09-25T00:00:00",
+      "students": {
+        "STU1002": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:22:00"
+        },
+        "STU1003": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:39:00"
+        },
+        "STU1005": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:59:00"
+        },
+        "STU1007": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:55:00"
+        },
+        "STU1009": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:51:00"
+        },
+        "STU1010": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:56:00"
+        },
+        "STU1012": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:01:00"
+        },
+        "STU1013": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:47:00"
+        },
+        "STU1014": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:50:00"
+        },
+        "STU1015": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:51:00"
+        },
+        "STU1016": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:17:00"
+        },
+        "STU1017": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:50:00"
+        },
+        "STU1018": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:24:00"
+        },
+        "STU1019": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:54:00"
+        },
+        "STU1021": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:14:00"
+        },
+        "STU1023": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:52:00"
+        },
+        "STU1024": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:22:00"
+        },
+        "STU1029": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:52:00"
+        },
+        "STU1031": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:14:00"
+        },
+        "STU1032": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:42:00"
+        },
+        "STU1033": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:25:00"
+        },
+        "STU1035": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:17:00"
+        },
+        "STU1036": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:49:00"
+        },
+        "STU1038": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:22:00"
+        },
+        "STU1039": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:43:00"
+        },
+        "STU1040": {
+          "status": "absent",
+          "timestamp": "2025-09-25T01:00:00"
+        },
+        "STU1043": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:07:00"
+        },
+        "STU1046": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:11:00"
+        },
+        "STU1047": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:02:00"
+        },
+        "STU1048": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:38:00"
+        },
+        "STU1049": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:22:00"
+        }
+      },
+      "createdAt": "2025-09-27T04:22:20.688106"
+    },
+    "REC_COURSE205": {
+      "recordId": "REC_COURSE205",
+      "courseId": "COURSE205",
+      "facultyId": "FAC105",
+      "date": "2025-09-25T00:00:00",
+      "students": {
+        "STU1002": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:27:00"
+        },
+        "STU1003": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:24:00"
+        },
+        "STU1004": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:16:00"
+        },
+        "STU1008": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:45:00"
+        },
+        "STU1009": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:00:00"
+        },
+        "STU1010": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:23:00"
+        },
+        "STU1011": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:04:00"
+        },
+        "STU1012": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:39:00"
+        },
+        "STU1013": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:42:00"
+        },
+        "STU1016": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:46:00"
+        },
+        "STU1019": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:32:00"
+        },
+        "STU1020": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:42:00"
+        },
+        "STU1023": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:20:00"
+        },
+        "STU1027": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:44:00"
+        },
+        "STU1028": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:35:00"
+        },
+        "STU1032": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:12:00"
+        },
+        "STU1034": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:42:00"
+        },
+        "STU1035": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:43:00"
+        },
+        "STU1036": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:39:00"
+        },
+        "STU1037": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:25:00"
+        },
+        "STU1038": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:19:00"
+        },
+        "STU1039": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:13:00"
+        },
+        "STU1040": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:50:00"
+        },
+        "STU1041": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:29:00"
+        },
+        "STU1044": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:28:00"
+        },
+        "STU1045": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:32:00"
+        },
+        "STU1046": {
+          "status": "absent",
+          "timestamp": "2025-09-25T00:50:00"
+        },
+        "STU1049": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:42:00"
+        },
+        "STU1050": {
+          "status": "present",
+          "timestamp": "2025-09-25T00:18:00"
+        }
+      },
+      "createdAt": "2025-09-27T04:22:20.688178"
+    }
+  }
+}
